@@ -1,0 +1,23 @@
+{
+  "name": "gulp-workflow",
+  "version": "1.0.0",
+  "description": "Heavy structure of gulp workflow~",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savokiss/gulp-workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savokiss/gulp-workflow/issues"
+  },
+  "homepage": "https://github.com/savokiss/gulp-workflow#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
